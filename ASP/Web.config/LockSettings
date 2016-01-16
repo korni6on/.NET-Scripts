@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<configuration>
+  <location path="path to lock down" allowOverride="false">
+    <system.web>
+      <!-- Configuration elements to be locked -->
+    </system.web>
+  </location>
+</configuration>
