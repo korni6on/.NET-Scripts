@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<configuration>
+    <system.web>
+      <authentication mode="Passport">
+        <passport redirectUrl="<URL>">  <!-- optional-->
+      </authentication>
+    </system.web>
+</configuration>
