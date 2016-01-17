@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>http://www.google.com/intl/bg_ALL/images/logo.gif</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>Google is the best</AlternateText> 
+    <Impressions>20</Impressions> 
+  </Ad>
+  <Ad> 
+    <ImageUrl>http://us.a1.yimg.com/us.yimg.com/i/ww/beta/y3.gif</ImageUrl> 
+    <NavigateUrl>http://www.yahoo.com</NavigateUrl> 
+    <AlternateText>Yahoo is worse</AlternateText> 
+    <Impressions>10</Impressions>
+  </Ad> 
+</Advertisements>
