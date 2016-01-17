@@ -1,0 +1,6 @@
+//add in page code
+<asp:RequiredFieldValidator id="RequiredFieldValidator1" runat="server"
+  ControlToValidate="txtLastName"
+  ErrorMessage="Last name is a required field."
+  ForeColor="Red">
+</asp:RequiredFieldValidator>
